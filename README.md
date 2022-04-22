@@ -7,7 +7,6 @@ Discord Henkdebiertank#6111
 
 ## Requirements
 - [EssentialMode](https://forum.fivem.net/t/release-essentialmode-base) (optional)
-- [Venomous freemode](https://github.com/FiveM-Scripts/venomous-freemode) (optional)
 
 ## Installation
 - Download the resource and copy the files to **resources/esx_aitaxi**.
