@@ -8,7 +8,7 @@
 
 ## Installation
 - Download the resource and copy the files to **resources/esx_aitaxi**.
-- Open your server.cfg and add `start fs_taxi` to the resource list.
+- Open your server.cfg and add `start ESX_aitaxi` to the resource list.
 - (Re)start your server.
 
 ## Usage
